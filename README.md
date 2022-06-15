@@ -1,2 +1,1 @@
-# Sum-of-Left-Leaves
-Tree
+https://leetcode.com/problems/sum-of-left-leaves
